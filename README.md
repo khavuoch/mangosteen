@@ -1,2 +1,2 @@
 # mangosteen
-web playing audio files as playlist
+web playing audio files as playlist.
